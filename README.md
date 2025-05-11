@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Bhumi</h2>
+<h1 align="left">Hi 👋! I'm Bhumi<br><br>(Luck favours the prepared ~Edna)</h1>
 
 ###
 
