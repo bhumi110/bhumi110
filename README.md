@@ -1,4 +1,4 @@
-# 👩‍💻 Hey, I'm Bhumi Saraogi  
+<h1 align="center">Hey, I'm Bhumi...👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250px" />
@@ -21,15 +21,10 @@
 
 ---
 
-## 📊 GitHub Insights  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi110&show_icons=true&locale=en&layout=compact" alt="bhumi110" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=react&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="180em"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumi110&show_icons=true&locale=en" alt="bhumi110" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="150em"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi110&" alt="bhumi110" /></p>
 
 
