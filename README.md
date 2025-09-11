@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Bhumi...👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=10000&color=FF69B4&center=true&vCenter=true&repeat=false&width=435&lines=Hey!+I'm+Bhumi..." alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250px" />
@@ -31,5 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumi110&show_icons=true&locale=en" alt="bhumi110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi110&" alt="bhumi110" /></p>
+
+
+---
+
+---
+
 
 
