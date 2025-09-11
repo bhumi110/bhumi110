@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250px" />
 </p>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhumi110&label=Profile%20views&color=0e75b6&style=flat" alt="bhumi110" />
+</p>
+<br>
 
 ## 🚀 About Me
 ✨ B.Tech student passionate about **building web magic**  
@@ -20,6 +22,7 @@
 </p>
 
 ---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi110&show_icons=true&locale=en&layout=compact" alt="bhumi110" /></p>
 
