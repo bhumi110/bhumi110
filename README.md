@@ -27,7 +27,6 @@
 
 ---
 
-
 ![Neon Snake](https://github.com/bhumi110/bhumi110/blob/output/snake-neon.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi110&show_icons=true&locale=en&layout=compact" alt="bhumi110" /></p>
@@ -35,11 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumi110&show_icons=true&locale=en" alt="bhumi110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi110&" alt="bhumi110" /></p>
-
-
----
-
----
-
-
-
