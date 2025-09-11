@@ -14,8 +14,11 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bhumi110
-          outputs: |
-            dist/snake-pink.svg?color_snake=FF69B4&color_dots=#FADADD,#FFB6C1,#FFC0CB,#FF69B4,#DB7093
+          outputs:
+              dist/snake-pink.svg?color_snake=FF69B4&color_dots=#FADADD,#FFB6C1,#FFC0CB,#FF69B4,#DB7093
+              dist/snake-rainbow.svg?color_snake=FF0080&color_dots=#FF0080,#FF8C00,#FFD700,#00FF00,#00CED1,#1E90FF,#9932CC
+              dist/snake-neon.svg?color_snake=39FF14&color_dots=#FF00FF,#39FF14,#00FFFF,#FF1493,#FFD700
+
 
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
