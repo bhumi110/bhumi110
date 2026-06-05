@@ -22,7 +22,7 @@
 
 ## 🛠️ My Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,nodejs,express,mongodb,mysql,figma,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,nodejs,express,mongodb,mysql,figma,git,github,java,netlify,tailwind,tensorflow,vercel,sklearn,robloxstudio,react,pytorch,materialui,flask,&perline=12" />
 </p>
 
 ---
