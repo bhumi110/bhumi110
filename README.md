@@ -18,21 +18,25 @@
 🌱 Exploring **MERN stack** & improving **problem-solving**  
 🎨 Turning ideas into **interactive web stories**  
 
----
+
 
 ## 🛠️ My Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,nodejs,express,mongodb,mysql,figma,git,github,java,netlify,tailwind,tensorflow,vercel,sklearn,robloxstudio,react,pytorch,flask,anaconda&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,nodejs,express,mongodb,mysql,figma,git,github,java,netlify,tailwind,tensorflow,vercel,sklearn,robloxstudio,react,pytorch,flask,anaconda&perline=12&theme=dark" />
 </p>
 
----
+
 
 ![Neon Snake](https://github.com/bhumi110/bhumi110/blob/output/snake-neon.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi110&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=39FF14&icon_color=FF00FF&text_color=00FFFF&bg_color=000000" alt="bhumi110" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumi110&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=39FF14&icon_color=FF00FF&text_color=00FFFF&bg_color=000000" alt="bhumi110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumi110&show_icons=true&locale=en&theme=tokyonight&title_color=39FF14&icon_color=FF00FF&text_color=00FFFF&bg_color=000000" alt="bhumi110" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumi110&show_icons=true&locale=en&theme=tokyonight&title_color=39FF14&icon_color=FF00FF&text_color=00FFFF&bg_color=000000" alt="bhumi110" /></p> -->
 
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=bhumi110&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bhumi110&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhumi110&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi110&" alt="bhumi110" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi110&" alt="bhumi110" /></p> -->
