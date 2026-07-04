@@ -13,10 +13,10 @@
 <br>
 
 ## 🚀 About Me
-✨ B.Tech student passionate about **building web magic**  
-💻 Love blending **code + design** for fun experiences  
-🌱 Exploring **MERN stack** & improving **problem-solving**  
-🎨 Turning ideas into **interactive web stories**  
+💻 Full-Stack Developer & AI/ML Enthusiast
+🤖 Building intelligent web applications powered by AI
+📚 Exploring Machine Learning, NLP, Computer Vision & Generative AI
+🚀 Passionate about solving real-world problems through technology 
 
 
 
