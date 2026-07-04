@@ -13,10 +13,10 @@
 <br>
 
 ## 🚀 About Me
-💻 Full-Stack Developer & AI/ML Enthusiast
-🤖 Building intelligent web applications powered by AI
-📚 Exploring Machine Learning, NLP, Computer Vision & Generative AI
-🚀 Passionate about solving real-world problems through technology 
+- 💻 Full-Stack Developer & AI/ML Enthusiast
+- 🤖 Building intelligent web applications powered by AI
+- 📚 Exploring Machine Learning, NLP, Computer Vision & Generative AI
+- 🚀 Passionate about solving real-world problems through technology 
 
 
 
