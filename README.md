@@ -16,13 +16,13 @@
 <br>
 
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 💻 Full-Stack Developer & AI/ML Enthusiast
 - 🤖 Building intelligent web applications powered by AI
 - 📚 Exploring Machine Learning, NLP, Computer Vision & Generative AI
 - 🚀 Passionate about solving real-world problems through technology 
 
-## 🛠️ My Tech Stack  
+## 🛠️ My Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,nodejs,express,mongodb,mysql,figma,git,github,java,netlify,tailwind,tensorflow,vercel,sklearn,robloxstudio,react,pytorch,flask,anaconda&perline=12&theme=dark" />
 </p>
